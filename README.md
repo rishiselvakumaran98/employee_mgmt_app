@@ -1,6 +1,6 @@
 # Employee_mgmt_app
 ## Objective
-The objective of this app is to help organisations keep track of their employee information in a centralised website that can manage CRUD (Create, Read, Update and Delete) employee entities based on the needs of the admin. This app was alos developed as a experimental project for the developer (Rishi Selvakumaran) to get better hands on experience in constructing fullstack applications using React, Springboot, JPA, JUnits and MySQL. 
+The objective of this app is to help organisations keep track of their employee information in a centralised website that can manage CRUD (Create, Read, Update and Delete) employee entities based on the needs of the admin. This app was also developed as a experimental project for the developer (Rishi Selvakumaran) to get better hands on experience in constructing fullstack applications using React, Springboot, JPA, JUnits and MySQL. 
 
 ## App features
 The users of the website are able to create, update and delete users
